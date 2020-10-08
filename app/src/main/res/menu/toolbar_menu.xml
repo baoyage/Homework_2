@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:theme="@style/MyTheme"
+
+    >
+
+
+    <item android:id="@+id/action_act0"
+        android:title="@string/first_act"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/action_act1"
+        android:title="@string/second_act"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_act2"
+        android:title="@string/third_act"
+        app:showAsAction="never"/>
+
+</menu>
